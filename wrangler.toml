@@ -1,0 +1,4 @@
+name = "movie-api"
+main = "./src/index.ts"
+compatibility_date = "2024-03-17"
+node_compat = true
